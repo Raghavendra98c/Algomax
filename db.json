@@ -1,34 +1,86 @@
 {
-  "users": [
+ 
+  "products": [
     {
-      "id": 1,
-      "name": "Naveen",
-      "email": "vijay@gmail.com"
+      "id": "1",
+      "name": "Motor Cycle...",
+      "stock": 10,
+      "price": 399.99,
+      "img":"https://media.istockphoto.com/id/1344641306/photo/professional-gravel-bike-or-road-bike-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=0_nTgr6oYeZk7jAkx4xD5FOVMqoRzgkm_YYE3HHBJuw=",
+      "shortDesc": "The project should have started and ended there... ",
+            "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     },
     {
-      "id": 2,
-      "name": "Raghav",
-      "email": "vijay@gmail.com"
+      "id": "2",
+      "name": "Suzuki Hayabusa",
+      "stock": 20,
+      "price": 299.99,
+      "img":"https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg",
+      "shortDesc": "The project should have started and ended there... ",
+            "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     },
     {
-      "id": 3,
-      "name": "Vijay",
-      "email": "vijay@gmail.com"
+      "id": "3",
+      "name": "Kawasaki Ninja H2R",
+      "stock": 15,
+      "price": 149.99,
+      "img":"https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg",
+      "shortDesc": "The project should have started and ended there... ",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     },
     {
-      "id": 4,
-      "name": "Anand",
-      "email": "raghavendra6c@gmail.com"
+      "id": "4",
+      "name": "Yamaha’s  FZ-07",
+      "stock": 5,
+      "price": 109.99,
+      "img":"https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo=",
+      "shortDesc": "The project should have started and ended there... ",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     },
     {
-      "id": 5,
-      "name": "Baskar",
-      "email": "b@gmail.com"
+      "id": "5",
+      "name": "KTM Motor Bikes",
+      "stock": 10,
+      "price": 399.99,
+      "img":"https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg",
+      "shortDesc": "The project should have started and ended there... ",
+            "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     },
     {
-      "id": 6,
-      "name": "Bhaskar",
-      "email": "b@gmail.com"
+      "id": "6",
+      "name": "Pulsar NS125...",
+      "stock": 20,
+      "price": 299.99,
+      "img":"https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg",
+      "shortDesc": "The project should have started and ended there... ",
+            "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "7",
+      "name": "TVS Motors...",
+      "stock": 15,
+      "price": 149.99,
+      "img":"https://c4.wallpaperflare.com/wallpaper/613/118/475/2017-bikes-suzuki-gsx-r1000-6k-wallpaper-preview.jpg",
+      "shortDesc": "The project should have started and ended there... ",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "8",
+      "name": "Yamahas  FZ-09",
+      "stock": 5,
+      "price": 109.99,
+      "img":"https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo=",
+      "shortDesc": "The project should have started and ended there... ",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
+    },
+    {
+      "id": "9",
+      "name": "KTM Motor Bikes",
+      "stock": 5,
+      "price": 109.99,
+      "img":"https://media.istockphoto.com/id/509723045/photo/3d-image-of-a-black-modern-motorbike.jpg?b=1&s=612x612&w=0&k=20&c=T_42IN-RSofmwtM4WD-JVX1_fK84-KAAUIdWIUZcIoo=",
+      "shortDesc": "The project should have started and ended there... ",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."
     }
   ]
 }
